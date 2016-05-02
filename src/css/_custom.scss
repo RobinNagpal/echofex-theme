@@ -1,0 +1,15 @@
+/* modules */
+@import "modules/mixins";
+@import "modules/elements";
+
+/* vendor */
+@import "bootstrap-overrides";
+
+/* config variables */
+@import "partials/config";
+
+/* layout */
+@import "partials/layout";
+
+@import "partials/liferay-classic";
+@import "partials/pages/index2";

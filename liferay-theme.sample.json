@@ -1,0 +1,10 @@
+{
+  "LiferayTheme": {
+    "appServerPath": "C:\\projects\\experiments\\liferay7\\liferay-portal-7.0-ce-ga1\\tomcat-8.0.32",
+    "deployPath": "C:\\projects\\experiments\\liferay7\\liferay-portal-7.0-ce-ga1\\deploy",
+    "url": "http://localhost:8080",
+    "appServerPathPlugin": "C:\\projects\\experiments\\liferay7\\liferay-portal-7.0-ce-ga1\\tomcat-8.0.32\\webapps\\echofex-theme",
+    "deployed": true,
+    "pluginName": "echofex-theme"
+  }
+}
